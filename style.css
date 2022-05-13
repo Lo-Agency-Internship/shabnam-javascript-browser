@@ -1,0 +1,7 @@
+.randomColors{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    margin-top: 10%; 
+    justify-content: center; 
+}
